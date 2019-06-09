@@ -4,7 +4,8 @@
 
 ## How to use it?
 
-First you need to have installed the MedØlDatschgerl (MØD) version 0.8.0.
+First you need to have installed the [MedØlDatschgerl (MØD) version 0.8.0](https://github.com/jakobandersen/mod/releases/tag/v0.8.0).
+
 Assuming you have [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/) installed, then just pull the image:
 
 `docker pull waldeyr/mod_v0.8.0:v1.0`
